@@ -43,7 +43,7 @@ const Manager = () => {
         {/* Submit Button */}
         <div className="mt-8 text-center">
           <button className="w-full py-3 bg-purple-700 hover:bg-purple-600 text-white font-semibold rounded-3xl shadow-md transition duration-300 transform hover:scale-105">
-            Save
+            add password
           </button>
         </div>
       </div>
